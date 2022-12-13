@@ -1,11 +1,9 @@
 #include "main.h"
-
 /**
- *main - Entry point
- * 
- *Return: 0 nothing, return void
+ * main - Entry point
+ * Description: display putchar
+ * Return: 0 nothing, return void
  */
-
 int main(void)
 
 {
