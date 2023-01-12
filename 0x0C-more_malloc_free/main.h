@@ -2,9 +2,7 @@
 #define MAIN_H
 
 /**
- * Auth: Brennan D Baraban
- * Desc: Header file containing prototypes for all functions
- *       used in the 0x0B-more_malloc_free directory.
+ * File: MAIN.h
  */
 
 int _putchar(char c);
@@ -15,3 +13,4 @@ int *array_range(int min, int max);
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
 
 #endif
+
